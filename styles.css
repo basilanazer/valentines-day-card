@@ -1,0 +1,82 @@
+body {
+    background-image: url("./images/bg.png");
+    background-color: #fde5e5;
+    align-items: center;
+  }
+  
+  #complete {
+    display: block;
+    color: #E98989;
+    text-shadow: 1px 0 0 #000, 0 1px 0 #000, -1px 0 0 #000, 0 -1px 0 #000, 1px 1px #000;
+    font-family: 'Pacifico';
+    font-size: 48px;
+    margin-left: 659px;
+    margin-top: 250px;
+  }
+  
+  #you-won {
+  
+    display: none;
+    color: #E98989;
+    text-shadow: 1px 0 0 #000, 0 1px 0 #000, -1px 0 0 #000, 0 -1px 0 #000, 1px 1px #000;
+    font-family: 'Pacifico';
+    font-size: 48px;
+    margin-left: 589px;
+    margin-top: 154px;
+  
+  
+  }
+  
+  .heading img {
+    position: absolute;
+    top: 83px;
+    left: 269px;
+    width: 195px;
+    height: 49px;
+  
+  }
+  
+  .xox img {
+    position: absolute;
+    top: 169px;
+    left: 222px;
+    width: 290px;
+    height: 322px;
+    object-fit: cover;
+  }
+  
+  #bear {
+    height: 200px;
+    width: 200px;
+    display: none;
+    margin-left: 794px;
+  }
+  
+  button {
+    background-color: #fde5e5;
+    border-color: #fde5e5;
+    position: absolute;
+    top: 283px;
+    left: 320px;
+    width: 90px;
+    height: 91px;
+    object-fit: cover;
+  }
+  
+  #line {
+    display: none;
+    position: absolute;
+    top: 184px;
+    left: 216px;
+    width: 302px;
+    height: 300.5px;
+  }
+  
+  #heart {
+    display: none;
+    position: absolute;
+    top: 285px;
+    left: 320px;
+    width: 90px;
+    height: 91px;
+  }
